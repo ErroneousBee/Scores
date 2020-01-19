@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <Album>
+    <name>Untitled</name>
+    <Score>
+      <name>Deck_The_Halls</name>
+      <path>Deck_The_Halls.mscz</path>
+      </Score>
+    <Score>
+      <name>Ding_Dong_Merrily_on_High</name>
+      <path>Ding_Dong_Merrily_on_High.mscz</path>
+      </Score>
+    <Score>
+      <name>God_Rest_Ye_Merry_Gentlemen</name>
+      <path>God_Rest_Ye_Merry_Gentlemen.mscz</path>
+      </Score>
+    <Score>
+      <name>Good_King_Wenceslas</name>
+      <path>Good_King_Wenceslas.mscz</path>
+      </Score>
+    <Score>
+      <name>Holly_and_the_Ivy</name>
+      <path>Holly_and_the_Ivy.mscz</path>
+      </Score>
+    <Score>
+      <name>I_Saw_Three_Ships</name>
+      <path>I_Saw_Three_Ships.mscz</path>
+      </Score>
+    <Score>
+      <name>Sussex Carol</name>
+      <path>Sussex Carol.mscz</path>
+      </Score>
+    <Score>
+      <name>In Dulce Jubilo</name>
+      <path>In Dulce Jubilo.mscz</path>
+      </Score>
+    <Score>
+      <name>O_Christmas_Tree_[G]</name>
+      <path>O_Christmas_Tree_[G].mscz</path>
+      </Score>
+    <Score>
+      <name>Oh_Come_all_Ye_Faithful</name>
+      <path>Oh_Come_all_Ye_Faithful.mscz</path>
+      </Score>
+    <Score>
+      <name>Once In Royal Davids City</name>
+      <path>Once In Royal Davids City.mscz</path>
+      </Score>
+    <Score>
+      <name>Silent_Night_[D]</name>
+      <path>Silent_Night_[D].mscz</path>
+      </Score>
+    <Score>
+      <name>The_Holly_and_the_Ivy</name>
+      <path>The_Holly_and_the_Ivy.mscz</path>
+      </Score>
+    <Score>
+      <name>We_Wish_You_A_Merry_Christmas</name>
+      <path>We_Wish_You_A_Merry_Christmas.mscz</path>
+      </Score>
+    </Album>
+  </museScore>
